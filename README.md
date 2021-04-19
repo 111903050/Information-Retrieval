@@ -14,3 +14,4 @@ How to run this project.
 3. out of those text files DOCNAMES.txt contains the name of all other text files.
 4. You need to download all those text files and put them in the same folder where your other c and header files are stored.
 5. I have used codeblocks as IDE to run and it will be better if you use the same.
+6. You can add no of text files but you have to wirte their names in the DOCNAMES.txt
